@@ -1,6 +1,6 @@
 # reading
 
-> Using GitHub's Issue Tracker as a Reading List Manager
+> Using GitHub's issue tracker as a reading list manager
 
 If there is something I'd like to read, make an issue with a link, tag it,
 submit it, read it, close it. If it is a really good article, post, etc. add
