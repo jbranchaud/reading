@@ -11,5 +11,5 @@ list manager. Like any experiment, it may completely fail.
 
 *Note: I love using Pocket, especially with its Twitter integration, but it
 falls apart on a lot of programming and tech articles when it comes to
-displaying diagrams and code snippets. Paper also doesn't make it easy for
+displaying diagrams and code snippets. Pocket also doesn't make it easy for
 others to see the articles I am reading.*
